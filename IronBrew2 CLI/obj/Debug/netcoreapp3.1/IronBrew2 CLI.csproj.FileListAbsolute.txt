@@ -1,0 +1,16 @@
+C:\Users\Stefan Borodii\Desktop\Krefuser\ironbrew-2-master\IronBrew2 CLI\bin\Debug\netcoreapp3.1\IronBrew2 CLI.exe
+C:\Users\Stefan Borodii\Desktop\Krefuser\ironbrew-2-master\IronBrew2 CLI\bin\Debug\netcoreapp3.1\IronBrew2 CLI.deps.json
+C:\Users\Stefan Borodii\Desktop\Krefuser\ironbrew-2-master\IronBrew2 CLI\bin\Debug\netcoreapp3.1\IronBrew2 CLI.runtimeconfig.json
+C:\Users\Stefan Borodii\Desktop\Krefuser\ironbrew-2-master\IronBrew2 CLI\bin\Debug\netcoreapp3.1\IronBrew2 CLI.runtimeconfig.dev.json
+C:\Users\Stefan Borodii\Desktop\Krefuser\ironbrew-2-master\IronBrew2 CLI\bin\Debug\netcoreapp3.1\IronBrew2 CLI.dll
+C:\Users\Stefan Borodii\Desktop\Krefuser\ironbrew-2-master\IronBrew2 CLI\bin\Debug\netcoreapp3.1\IronBrew2 CLI.pdb
+C:\Users\Stefan Borodii\Desktop\Krefuser\ironbrew-2-master\IronBrew2 CLI\bin\Debug\netcoreapp3.1\IronBrew2.dll
+C:\Users\Stefan Borodii\Desktop\Krefuser\ironbrew-2-master\IronBrew2 CLI\bin\Debug\netcoreapp3.1\IronBrew2.pdb
+C:\Users\Stefan Borodii\Desktop\Krefuser\ironbrew-2-master\IronBrew2 CLI\obj\Debug\netcoreapp3.1\IronBrew2 CLI.csproj.AssemblyReference.cache
+C:\Users\Stefan Borodii\Desktop\Krefuser\ironbrew-2-master\IronBrew2 CLI\obj\Debug\netcoreapp3.1\IronBrew2 CLI.AssemblyInfoInputs.cache
+C:\Users\Stefan Borodii\Desktop\Krefuser\ironbrew-2-master\IronBrew2 CLI\obj\Debug\netcoreapp3.1\IronBrew2 CLI.AssemblyInfo.cs
+C:\Users\Stefan Borodii\Desktop\Krefuser\ironbrew-2-master\IronBrew2 CLI\obj\Debug\netcoreapp3.1\IronBrew2 CLI.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Borodii\Desktop\Krefuser\ironbrew-2-master\IronBrew2 CLI\obj\Debug\netcoreapp3.1\IronBrew2 CLI.csproj.CopyComplete
+C:\Users\Stefan Borodii\Desktop\Krefuser\ironbrew-2-master\IronBrew2 CLI\obj\Debug\netcoreapp3.1\IronBrew2 CLI.dll
+C:\Users\Stefan Borodii\Desktop\Krefuser\ironbrew-2-master\IronBrew2 CLI\obj\Debug\netcoreapp3.1\IronBrew2 CLI.pdb
+C:\Users\Stefan Borodii\Desktop\Krefuser\ironbrew-2-master\IronBrew2 CLI\obj\Debug\netcoreapp3.1\IronBrew2 CLI.genruntimeconfig.cache
