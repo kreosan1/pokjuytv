@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jsImQhfNmSxO3Fgzl9LHgw12y+gaw4AmSwJuP5upsLCPUogTAaifRnUEcemOsIom5mPDkBYujbeLLPh7L0az0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stefan Borodii\\Desktop\\Krefuser\\ironbrew-2-master\\IronBrew2\\IronBrew2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefan Borodii\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Stefan Borodii\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0-preview.18571.3\\system.runtime.compilerservices.unsafe.4.6.0-preview.18571.3.nupkg.sha512",
+    "C:\\Users\\Stefan Borodii\\.nuget\\packages\\system.text.encoding.codepages\\4.6.0-preview.18571.3\\system.text.encoding.codepages.4.6.0-preview.18571.3.nupkg.sha512"
+  ],
+  "logs": []
+}
